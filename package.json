@@ -10,7 +10,7 @@
     "firebase": "^5.8.6",
     "moment": "^2.24.0",
     "react": "16.6.3",
-    "react-native": "^0.60.4",
+    "react-native": "^0.62.3",
     "react-native-gesture-handler": "^1.1.0",
     "react-native-local-mongodb": "^2.2.5",
     "react-native-masked-text": "^1.11.1",
